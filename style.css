@@ -1,0 +1,83 @@
+.NavBar{
+    background-color: aquamarine;
+    position: sticky;
+    color: black;
+    top: 0px;
+}
+.NavBar>h1 {
+    display: inline-block;
+    width: 550px;
+    padding-inline: 20px;
+}
+.NavBar>a {
+    padding-inline: 20px;
+}
+.form{
+    justify-content: center;
+    display: block;
+    margin: 40px 50px;
+    border-style: double;
+    padding: 30px;
+    background-color: azure;
+}
+#age {
+    width: 600px;
+}
+#password {
+    width: 600px;
+}
+#First_Name {
+    width: 600px;
+}
+#Last_Name {
+    width: 600px;
+}
+#email {
+    width: 600px;
+}
+#confirm_password {
+    width: 600px;
+}
+#date_of_birth {
+    width: 600px;
+}
+#register {
+    background-color: black;
+    justify-content: center;
+    align-content: center;
+    color: aliceblue;
+    font: bold;
+    display: flex;
+    width: 700px;
+}
+.table {
+    display: table;
+    border-collapse: collapse;
+    align-content: center;
+    width: 90%;
+
+}
+#header {
+    background-color: azure;
+    line-height: 40px;
+}
+#t1 {
+    border-collapse: collapse;
+    width: 100%;
+}
+#t2 {
+    border-collapse: collapse;
+    width: 100%;
+}
+#t3 {
+    border-collapse: collapse;
+    width: 100%;
+}
+#t4 {
+    border-collapse: collapse;
+    width: 100%;
+}
+#t5 {
+    border-collapse: collapse;
+    width: 100%;
+}
